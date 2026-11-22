@@ -1,6 +1,7 @@
 # Corda Graduada por Código de Cores (IEC 60062)
 
 **Autor:** Luiz Augusto Prado 1807787 (UNB)  
+**Blog:** https://sirmathmiracle.blogspot.com/2026/11/corda-graduada.html?m=1
 **Data:** Novembro de 2026  
 
 ## Descrição
