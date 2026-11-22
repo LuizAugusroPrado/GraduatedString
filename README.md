@@ -9,7 +9,7 @@ Para operarmos o **Trisseccionador e N-Seccionador de Ângulos** apresentado ant
 
 Cada faixa colorida possui largura exata de **1 mm**, formando ciclos contínuos de **10 mm (1 cm)** de **0 (Preto)** a **9 (Branco)**, o que permite leitura visual direta da variação de perímetro e da posição angular sem necessidade de instrumentos eletrônicos.
 
-![Corda Graduada em Milímetros](INSIRA_AQUI_O_LINK_OU_CAMINHO_DA_SUA_IMAGEM)
+![Corda Graduada em minímetros](image_4a5bb80c.jpg)
 
 ## Escala de Cores (Ciclo de 10 mm)
 
